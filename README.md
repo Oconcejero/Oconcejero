@@ -1,4 +1,4 @@
-# ![Banner](./img/NEKU_github_profile.jpg)) Hola, mi nombre es Neku 👋
+#  Hola, mi nombre es Neku 👋 ![Banner](./img/NEKU_github_profile.jpg)
 ### Freelance fullstack iOS & Android engineer
 
 ![https://github.com/mouredev](./mouredev_github_profile.png)
