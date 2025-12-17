@@ -3,7 +3,9 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/oconcejero?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/oconcejero?style=social)
-
+<br>
+<hr>
+<br>
 Diseñador gráfico desde hace más de 15 años con necesidades de cambio de aires.
 
 He trabajado en distintas empresas relacionadas con el mundo del diseño gráfico, la creación de eventos, agencias de comunicación y, como me gusta decir, acabar siendo un duende de Papá Noel trabajando durante 7 años diseñando y produciendo juguetes para, ahora, cambiar totalmente de rumbo para introducirme en el mundo de la programación y el desarrollo.
@@ -11,7 +13,9 @@ He trabajado en distintas empresas relacionadas con el mundo del diseño gráfic
 > 🚧 [Design Portfolio](https://oconcejero.wixsite.com/porfolio)
 > 
 > ⭐️ [GitHub star](https://stars.github.com/profiles/oconcejero/)
-
+<br>
+<hr>
+<br>
 ## Skills:
 
 #### Programming Languages & Technologies:
@@ -45,3 +49,7 @@ He trabajado en distintas empresas relacionadas con el mundo del diseño gráfic
 <span style="margin-right: 15px;">
 	<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 </span>
+<br>
+<hr>
+<br>
+
