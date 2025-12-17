@@ -1,8 +1,6 @@
 #  Hola, mi nombre es Neku 👋 ![Banner](./img/NEKU_github_profile.jpg)
 ### Full Stack Developer in progress...
 
-![https://github.com/mouredev](./mouredev_github_profile.png)
-
 ![GitHub Followers](https://img.shields.io/github/followers/oconcejero?style=social)
 ![GitHub Followers](https://img.shields.io/github/stars/oconcejero?style=social)
 
