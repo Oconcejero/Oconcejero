@@ -1,4 +1,4 @@
-#  Hola, mi nombre es Neku 👋![Banner](./img/github_profile.jpg)
+#  Hola, mi nombre es Neku 👋![Banner](./img/gihub_profile.jpg)
 ### Full Stack Developer in progress...
 
 ![GitHub Followers](https://img.shields.io/github/followers/oconcejero?style=social)
