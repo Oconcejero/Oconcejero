@@ -10,6 +10,7 @@ Diseñador gráfico desde hace más de 15 años con necesidades de cambio de air
 
 He trabajado en distintas empresas relacionadas con el mundo del diseño gráfico, la creación de eventos, agencias de comunicación y, como me gusta decir, acabar siendo un duende de Papá Noel trabajando durante 7 años diseñando y produciendo juguetes para, ahora, cambiar totalmente de rumbo para introducirme en el mundo de la programación y el desarrollo.
 
+> 🚧 [WEB](https://neku.dev)
 > 🚧 [Design Portfolio](https://oconcejero.wixsite.com/porfolio)
 
 <br>
